@@ -1,4 +1,4 @@
-# BreadcrumbsTF_sistemas_recomendacao
+# TF_sistemas_recomendacao
 Trabalho final da disciplina Sistemas de recomendação. O trabalho consiste na construção de um sistema de recomendação através do emprego das
 técnicas vistas em aula.
 
