@@ -4,7 +4,7 @@ técnicas vistas em aula.
 
 ## Sugestão de cidade utilizando o Índice de Criminalidade do Estado do Rio Grande do Sul
 
-## 1. Dados
+### 1. Dados
 Para o trabalho foi escolhido os bancos de dados Índice de Criminalidade (RS, 2023) e Estimativas Populacionais (RS, 2022). Os dados são reais e estão disponíveis no portal Dados Abertos RS do Estado do Rio Grande do Sul.
 
 Indíce de Criminalidade no RS: [https://dados.rs.gov.br/dataset/indicadores-criminais-de-2023](https://dados.rs.gov.br/dataset/indicadores-criminais-de-2023)
